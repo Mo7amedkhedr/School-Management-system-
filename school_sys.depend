@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1703693076 source:c:\users\compu\desktop\new folder\school_sys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"school.h"
+
+1703693168 c:\users\compu\desktop\new folder\school_sys\school.h
+	"school_private.h"
+
+1703681093 c:\users\compu\desktop\new folder\school_sys\school_private.h
+
+1703693599 source:c:\users\compu\desktop\new folder\school_sys\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"school.h"
+

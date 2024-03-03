@@ -1,0 +1,4 @@
+
+#define MAX_STUDENTS 1000
+#define MAX_SUBJECTS 5
+#define MAX_NAME_LENGTH 50
